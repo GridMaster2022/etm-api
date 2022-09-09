@@ -1,0 +1,22 @@
+{
+  "scenarioId": 1,
+  "scenarioUuid": "PLACEHOLDER",
+  "scenarioYear": 2050,
+  "calculationState": "PLACEHOLDER",
+  "scenarioMd5": "",
+  "bucketName": "PLACEHOLDER",
+  "bucketFolder": "PLACEHOLDER",
+  "baseEsdlLocation": "PLACEHOLDER",
+  "scenarioJsonLocation": "PLACEHOLDER",
+  "contextScenarioLocation": "PLACEHOLDER",
+  "etmResultLocation": "PLACEHOLDER",
+  "etmScenarioId": 81223,
+  "updatedEsdlLocation": "PLACEHOLDER",
+  "essimExportGasunieLocation": "PLACEHOLDER",
+  "essimExportTennetLocation": "PLACEHOLDER",
+  "essimSimulationId": "PLACEHOLDER",
+  "postProcessingGasunieLocation": "PLACEHOLDER",
+  "postProcessingTennetLocation": "PLACEHOLDER",
+  "gasunieLoadFlowLocation": "PLACEHOLDER",
+  "tennetLoadFlowLocation": "PLACEHOLDER"
+}
